@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION (Readme Typing SVG) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+modern%2C+high-impact+web+apps;Architecting+scalable+%26+resilient+systems;Passionate+about+clean+code+%26+DX+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=580&lines=Building+resilient%2C+high-throughput+systems;Specializing+in+modern+backend+%26+cloud-native+stacks;Zero-bloat+engineering+%7C+Observability-first+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,33 +30,38 @@
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ Terminal // whoami
 
 <table width="100%">
  <tr>
     <td width="58%" valign="top">
-      <p>
-        I'm a passionate software developer dedicated to crafting intuitive, performant, and scalable applications. My focus spans modern full-stack architectures, clean code principles, and efficient developer workflows.
-      </p>
-      <ul>
-        <li>🔭 <b>Currently working on:</b> Scalable web platforms & cloud-native architectures</li>
-        <li>🌱 <b>Exploring:</b> Distributed systems, high-concurrency patterns & Rust/Go</li>
-        <li>💬 <b>Ask me about:</b> TypeScript, React/Next.js, Node.js, API design & Docker</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Make it work, make it right, make it fast."</i></li>
-      </ul>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <!-- Most Used Languages Donut -->
-      <a href="https://github.com/ali0zdas">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
-      </a>
-    </td>
+
+```zsh
+ali@devbox:~$ whoami
+> Role:         Computer Engineer & Full-Stack Developer
+> Focus:        Distributed Systems · Scalable Backends · Cloud-Native
+> Core Stack:   Go · TypeScript · PostgreSQL · Docker · Linux
+> Architecture: Event-driven pipelines, clean abstractions, high DX
+> Philosophy:   "Simplicity is prerequisite for reliability." — Dijkstra
+```
+
+<p>
+  I build high-performance software with an emphasis on low-latency backends, modular system architecture, and robust developer tooling. Passionate about solving throughput bottlenecks, writing deterministic code, and automating the friction out of development cycles.
+</p>
+
+</td>
+<td width="42%" valign="middle" align="center">
+  <!-- Top Languages Donut -->
+  <a href="https://github.com/ali0zdas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
+  </a>
+</td>
  </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -71,12 +76,13 @@
 <summary><b>📂 Detailed Tech Matrix (Click to expand)</b></summary>
 <br/>
 
-| Category | Technologies & Tools |
+| Domain | Tools & Technologies |
 |:---|:---|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux / Zustand, TanStack Query |
-| **Backend & Databases** | Node.js, Express, Go, PostgreSQL, MongoDB, Redis, Prisma / Drizzle |
-| **DevOps & Cloud** | Docker, Git & GitHub Actions, AWS, Vercel, Linux |
-| **Testing & Tools** | Jest, Playwright, Postman, Figma, VS Code |
+| **Core & Languages** | TypeScript, JavaScript, Go, Python, SQL |
+| **Backend & Distributed** | Node.js, Express, REST/GraphQL APIs, Microservices, Redis Caching, WebSockets |
+| **Databases & Storage** | PostgreSQL, MongoDB, Redis, Prisma / Drizzle ORM |
+| **Infrastructure & Cloud** | Docker, Git & GitHub Actions CI/CD, Linux, AWS, Vercel |
+| **Frontend & UI** | React, Next.js, Tailwind CSS, TanStack Query, State Management |
 
 </details>
 
@@ -84,13 +90,42 @@
 
 ---
 
-### 📊 GitHub Metrics
+### ⚙️ Dev Environment & Tech Radar
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Daily Workspace & Tooling</h4>
+      <ul>
+        <li><b>OS:</b> Linux / Unix Environment</li>
+        <li><b>Terminal & Shell:</b> Zsh + Oh My Zsh / Starship prompt</li>
+        <li><b>Editor:</b> VS Code / Neovim with Tokyo Night aesthetic</li>
+        <li><b>VCS & CI/CD:</b> Git, GitHub Actions, Automated Workflows</li>
+        <li><b>API Tooling:</b> Postman, cURL, Bruno</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔬 Research & Current Deep Dives</h4>
+      <ul>
+        <li><b>High-Concurrency:</b> Goroutines, channels & lock-free data structures</li>
+        <li><b>Distributed Systems:</b> Consensus protocols & event sourcing</li>
+        <li><b>Edge Runtimes:</b> WebAssembly & lightweight compute at the edge</li>
+        <li><b>Database Internals:</b> Indexing strategies, query planning & WAL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics // All-Time
 
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000" width="100%" alt="GitHub Stats" />
+        <!-- All-time stats with include_all_commits=true & count_private=true -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef" width="100%" alt="Streak Stats" />
@@ -98,32 +133,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌟 <a href="https://github.com/ali0zdas">Featured Project 1</a></h3>
-      <p>High-performance web application designed for real-time data handling and seamless UX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/ali0zdas">Featured Project 2</a></h3>
-      <p>Developer productivity tool and automated workflow utility built with modern standards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
