@@ -90,34 +90,6 @@ ali@devbox:~$ whoami
 
 ---
 
-### ⚙️ Dev Environment & Tech Radar
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Daily Workspace & Tooling</h4>
-      <ul>
-        <li><b>OS:</b> Linux / Unix Environment</li>
-        <li><b>Terminal & Shell:</b> Zsh + Oh My Zsh / Starship prompt</li>
-        <li><b>Editor:</b> VS Code / Neovim with Tokyo Night aesthetic</li>
-        <li><b>VCS & CI/CD:</b> Git, GitHub Actions, Automated Workflows</li>
-        <li><b>API Tooling:</b> Postman, cURL, Bruno</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔬 Research & Current Deep Dives</h4>
-      <ul>
-        <li><b>High-Concurrency:</b> Goroutines, channels & lock-free data structures</li>
-        <li><b>Distributed Systems:</b> Consensus protocols & event sourcing</li>
-        <li><b>Edge Runtimes:</b> WebAssembly & lightweight compute at the edge</li>
-        <li><b>Database Internals:</b> Indexing strategies, query planning & WAL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Metrics // All-Time
 
 <div align="center">
