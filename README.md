@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER: Capsule Render Wave Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=%20%20⚡Ali%20Ozdas%20&fontSize=44&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Open-Source%20Explorer&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=%20%20⚡Ali%20Ozdas%20&fontSize=64&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Open-Source%20Explorer&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
 
 <!-- TYPING ANIMATION (Readme Typing SVG) -->
 <a href="https://git.io/typing-svg">
