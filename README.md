@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER: Capsule Render Wave Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Hi,%20I'm%20Ali%20Özdaş%20👋&fontSize=44&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Open-Source%20Explorer&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=%20%20⚡Ali%20Ozdas%20&fontSize=44&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Open-Source%20Explorer&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
 
 <!-- TYPING ANIMATION (Readme Typing SVG) -->
 <a href="https://git.io/typing-svg">
@@ -21,7 +21,7 @@
   <a href="https://twitter.com/ali0zdas" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
-  <a href="mailto:contact@aliozdas.com">
+  <a href="mailto:aliozdas.tk@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
