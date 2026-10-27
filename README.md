@@ -90,17 +90,16 @@ ali@devbox:~$ whoami
 
 ---
 
-### 📊 GitHub Metrics // All-Time
+### 📊 GitHub Metrics
 
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <!-- All-time stats with include_all_commits=true & count_private=true -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000&cache_seconds=1800&v=2" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef" width="100%" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef&v=2" width="100%" alt="Streak Stats" />
       </td>
     </tr>
   </table>
