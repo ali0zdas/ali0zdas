@@ -53,7 +53,7 @@ ali@devbox:~$ whoami
 <td width="42%" valign="middle" align="center">
   <!-- Top Languages Donut -->
   <a href="https://github.com/ali0zdas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
   </a>
 </td>
  </tr>
@@ -96,7 +96,7 @@ ali@devbox:~$ whoami
   <table border="0" style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000&cache_seconds=1800&v=2" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://streak-stats.demolab.com?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef&v=2" width="100%" alt="Streak Stats" />
