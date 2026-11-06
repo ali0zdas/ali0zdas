@@ -32,7 +32,7 @@
 
 ### ⚡ Terminal // whoami
 
-<table ="100%">
+<table width="100%">
  <tr>
     <td width="58%" valign="top">
 
@@ -95,11 +95,20 @@ ali@devbox:~$ whoami
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000" width="100%" alt="GitHub Stats" />
+      <!-- Sol Taraf: Streak Stats (19 Günlük Seri) -->
+      <td width="50%" align="center" valign="middle">
+        <img src="https://streak-stats.demolab.com?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef&v=5" width="100%" alt="Streak Stats" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=ali0zdas&theme=tokyonight&hide_border=true&stroke=61afef&background=00000000&ring=61afef&fire=e06c75&currStreakLabel=61afef&v=2" width="100%" alt="Streak Stats" />
+      <!-- Sağ Taraf: All-Time Stats (304 Contributions) + Başarım Rozetleri -->
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-stats-extended.vercel.app/api?username=ali0zdas&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,prs,contribs&include_all_commits=true&count_private=true&show=contributions&title_color=61afef&text_color=abb2bf&icon_color=e5c07b&bg_color=00000000&v=5" width="100%" alt="GitHub Stats" />
+        <br/>
+        <a href="https://github.com/ali0zdas?tab=achievements">
+          <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="46" alt="Galaxy Brain" title="Galaxy Brain" />
+          <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="46" alt="Pull Shark" title="Pull Shark" />
+          <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="46" alt="Quickdraw" title="Quickdraw" />
+          <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="46" alt="YOLO" title="YOLO" />
+        </a>
       </td>
     </tr>
   </table>
