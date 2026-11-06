@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER: Capsule Render Wave Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=%20%20⚡Ali%20Ozdas%20&fontSize=64&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Open-Source%20Explorer&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=%20%20⚡Ali%20Ozdas%20&fontSize=62&fontAlignY=38&fontFamily=Fira%20Code,monospace&stroke=61afef&strokeWidth=1.5&desc=Computer%20Engineer%20%7C%20Full-Stack%20Systems%20%7C%20Applied%20AI%20%7C%20Open-Source%20First&descSize=16&descAlignY=62&descAlign=50&theme=tokyonight" width="100%" alt="Header" />
 
 <!-- TYPING ANIMATION (Readme Typing SVG) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=580&lines=Building+resilient%2C+high-throughput+systems;Specializing+in+modern+backend+%26+cloud-native+stacks;Zero-bloat+engineering+%7C+Observability-first+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=680&lines=Building+resilient%2C+high-throughput+systems;Specializing+in+modern+backend+%26+cloud-native+stacks;Zero-bloat+engineering+%7C+Observability-first+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 
 ### ⚡ Terminal // whoami
 
-<table width="100%">
+<table ="100%">
  <tr>
     <td width="58%" valign="top">
 
