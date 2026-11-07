@@ -37,12 +37,12 @@
     <td width="58%" valign="top">
 
 ```zsh
-ali@devbox:~$ whoami
-> Role:         Computer Engineer & Full-Stack Developer
-> Focus:        Distributed Systems · Scalable Backends · Cloud-Native
-> Core Stack:   Go · TypeScript · PostgreSQL · Docker · Linux
-> Architecture: Event-driven pipelines, clean abstractions, high DX
-> Philosophy:   "Simplicity is prerequisite for reliability." — Dijkstra
+ali@kali:~$ whoami
+> Role:         Computer Engineer & Full-Stack Systems
+> Focus:        Agentic Workflows · Distributed Backends · LLM Tooling
+> Core Stack:   Go · Python · React / TypeScript · Dart · Linux
+> Architecture: Autonomous pipelines, MCP bridges, AI-driven services
+> Status:       "Reality is an illusion, perception is everything."
 ```
 
 <p>
