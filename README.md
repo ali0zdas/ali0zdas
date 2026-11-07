@@ -38,16 +38,19 @@
 
 ```zsh
 ali@kali:~$ whoami
+
 > Role:         Computer Engineer & Full-Stack Systems
 > Focus:        Agentic Workflows · Distributed Backends · LLM Tooling
 > Core Stack:   Go · Python · React / TypeScript · Dart · Linux
 > Architecture: Autonomous pipelines, MCP bridges, AI-driven services
+
 > Status:       "Reality is an illusion, perception is everything."
+
+
+
 ```
 
-<p>
-  I build high-performance software with an emphasis on low-latency backends, modular system architecture, and robust developer tooling. Passionate about solving throughput bottlenecks, writing deterministic code, and automating the friction out of development cycles.
-</p>
+
 
 </td>
 <td width="42%" valign="middle" align="center">
