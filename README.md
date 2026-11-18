@@ -56,7 +56,7 @@ ali@kali:~$ whoami
 <td width="42%" valign="middle" align="center">
   <!-- Top Languages Donut -->
   <a href="https://github.com/ali0zdas">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&exclude_repo=Filozon&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ali0zdas&layout=donut&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&title_color=61afef&text_color=abb2bf&bg_color=00000000" width="100%" alt="Top Languages" />
   </a>
 </td>
  </tr>
